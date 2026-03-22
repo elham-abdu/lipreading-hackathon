@@ -1,4 +1,4 @@
-﻿# Lip Reading AI - Hackathon proj
+﻿# Lip Reading AI - Hackathon project
 ## 👄 Overview
 This project performs lip reading from video using deep learning. It extracts mouth regions from video frames and uses a CNN+LSTM model with CTC loss to predict spoken sentences.
 
